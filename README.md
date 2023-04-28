@@ -1,8 +1,10 @@
-# problema do colegio goes 
+#computadores mais!
 
-quantidade de computadores
-
-participantes: Camila,Michelle,Paloma,Victoria.
+<h1 align="center"> Better Computers </h1>
+ 
+<h4 align="center">
+> :computer: Projeto para ter mais computadores para os alunos. :computer:  
+</h4>
 
 A falta de computadores para todos os alunos na sala de informática e manutenção.
 
