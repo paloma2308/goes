@@ -2,6 +2,8 @@
 
 <h1 align="center"> Better Computers </h1>
  
+[descrição da imagem]https://wmsit.com.br/vai-trocar-os-computadores-da-empresa-confira-nosso-checklist-do-que-fazer/
+
 <h4 align="center">
 > :computer: Projeto para ter mais computadores para os alunos. :computer:  
 </h4>
