@@ -14,7 +14,7 @@ Como poderia resolver isso?
 
 # :hammer: Funcionalidades do projeto
 
-- `Funcionalidade 1`: verificar a quantidade de computadores.
-- `Funcionalidade 2`: verificar a turma que tem mais alunos.
-- `Funcionalidade 2a`: descrição da funcionalidade 2a relacionada à funcionalidade 2
-- `Funcionalidade 3`: descrição da funcionalidade 3
+- `Funcionalidade 1`: verificar a turma que tem mais alunos.
+- `Funcionalidade 2`: verificar a quantidade de alunos.
+- `Funcionalidade 2a`: quantidade decomputadores que tem e quantos falta.
+- `Funcionalidade 3`: Verificar quantos computadores tem que colocar.
