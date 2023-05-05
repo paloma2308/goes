@@ -4,9 +4,6 @@
  
 ![descricao da imagem ](https://user-images.githubusercontent.com/130758379/236452844-e0549fae-dcdd-430b-92ee-1d40992bd4fc.jpg)
 
-
-<h1 align="center"> Computadores para todos </h1>
-
 <h4 align="center">
 > :computer: Projeto para ter mais computadores para todos os alunos. :computer:  
 </h4>
