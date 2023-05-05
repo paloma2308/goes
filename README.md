@@ -1,9 +1,8 @@
-#computadores mais!
+#mais computadores!
 
 <h1 align="center"> Computadores para todos </h1>
  
-![descrição da imagem aqui](https://drive.google.com/file/d/1iL9bplJs27huRm1VpLjFeE-n9H08kMyp/view?usp=sharing)
-
+![descrição da imagem aqui]()
 
 <h4 align="center">
 > :computer: Projeto para ter mais computadores para todos os alunos. :computer:  
