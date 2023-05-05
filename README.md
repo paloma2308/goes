@@ -1,12 +1,12 @@
 #computadores mais!
 
-<h1 align="center"> Better Computers </h1>
+<h1 align="center"> More computers </h1>
  
 ![descrição da imagem aqui](https://drive.google.com/file/d/1QCCp6FkP125SjQ8-qCb2ISCc7WCB-rmT/view?usp=drivesdk)
 
 
 <h4 align="center">
-> :computer: Projeto para ter mais computadores para os alunos. :computer:  
+> :computer: Projeto para ter mais computadores para todos os alunos. :computer:  
 </h4>
 
 A falta de computadores para todos os alunos na sala de informática e manutenção.
