@@ -2,7 +2,7 @@
 
 <h1 align="center"> Computadores para todos </h1>
  
-![descrição da imagem aqui](https://drive.google.com/file/d/1QCCp6FkP125SjQ8-qCb2ISCc7WCB-rmT/view?usp=drivesdk)
+![descrição da imagem aqui](https://drive.google.com/file/d/1iL9bplJs27huRm1VpLjFeE-n9H08kMyp/view?usp=sharing)
 
 
 <h4 align="center">
