@@ -1,6 +1,6 @@
 #computadores mais!
 
-<h1 align="center"> More computers </h1>
+<h1 align="center"> Computadores para todos </h1>
  
 ![descrição da imagem aqui](https://drive.google.com/file/d/1QCCp6FkP125SjQ8-qCb2ISCc7WCB-rmT/view?usp=drivesdk)
 
