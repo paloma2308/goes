@@ -1,6 +1,6 @@
 #mais computadores!
 
-
+<h1 align="center"> Computador para todos </h1>
  
 ![descricao da imagem ](https://user-images.githubusercontent.com/130758379/236452844-e0549fae-dcdd-430b-92ee-1d40992bd4fc.jpg)
 
